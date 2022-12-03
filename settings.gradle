@@ -1,0 +1,7 @@
+pluginManagement {
+	repositories {
+		maven { url 'https://prm.ebaykorea.com/nexus/repository/maven-group/' }
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'kafka.test.producer'

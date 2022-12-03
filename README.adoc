@@ -1,0 +1,7 @@
+= KafkaTestProducerApplication
+
+:boot-doc: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle
+:code: https://github.com/spring-io/initializr/blob/master
+:docs: https://docs.spring.io/initializr/docs/current-SNAPSHOT/reference
+:service: https://github.com/spring-io/start.spring.io
+
